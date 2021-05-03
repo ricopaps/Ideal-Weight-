@@ -7,15 +7,15 @@ img{
   display: block;
 }
 ion-card-title{
-  color: #000000;
-  font-family:sans-serif
+  color: #ffffff;
+  font-family:roxboroughCF
 }
 p{
-color: #000000;
+color: #ffffff;
 }
 ion-card{
   background:linear-gradient(to right, #2193b0, #6dd5ed)
 }
 a{
-  color:#000000;
+  color:#ffffff;
 }
