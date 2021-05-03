@@ -9,7 +9,7 @@ ion-card{
 }
 ion-card-title{
   color: #ffffff;
-  font-family:roxboroughCF
+  font-family:sans-serif
 }
 button{
   background: linear-gradient(to right, #2193b0, #6dd5ed);

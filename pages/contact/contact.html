@@ -31,9 +31,9 @@
     <ion-label color="light">Inch:</ion-label>
     <ion-input type="number" [(ngModel)]="inch"></ion-input>
   </ion-item>
-  
+
   <button ion-button block fill="solid" (click)="calculateM()">CALCULATE MALE</button>
-  <button ion-button block fil="solid" (click)="calculateF()">CALCULATE FEMALE</button>
+  <button ion-button block fill="solid" (click)="calculateF()">CALCULATE FEMALE</button>
  
   <ion-item *ngIf="weight1">
   <h2>Miller (1983) : {{weight1}} kg.</h2>
