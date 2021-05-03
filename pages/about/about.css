@@ -3,10 +3,10 @@ ion-content{
 }
 ion-card-title{
   color: #ffffff;
-  font-family:roxboroughCF
+  font-family:sans-serif
 }
 p{
-color: #ffffff;
+color: #000000;
 }
 ion-card{
   background:linear-gradient(to right, #2193b0, #6dd5ed);
